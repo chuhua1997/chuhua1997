@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 我是彭淳華👋
 
 <!--
 **chuhua1997/chuhua1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**前端工程師**
